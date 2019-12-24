@@ -11,7 +11,7 @@ public class Q3 {
 				sum += number[i];
 		}
 		
-		System.out.println("이것은?" + sum);
+		System.out.println("이것은?" + sum + "입니다.");
 		
 	}
 
