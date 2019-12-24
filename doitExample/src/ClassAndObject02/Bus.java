@@ -15,7 +15,7 @@ public class Bus {
 	}
 	
 	public void showInfo() {
-		System.out.println("���� " + busNumber + "���� �°���" + passengetCount + "���̰�, ������" + money + " �Դϴ�.");
+		System.out.println("버스는 " + busNumber + "이것입니다." + passengetCount + "모르겠어요" + money + " 입니다.");
 	}
 	
 	
