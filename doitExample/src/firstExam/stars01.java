@@ -9,5 +9,6 @@ public class stars01 {
 			}
 			System.out.println();
 		}
+		
 	}
 }
